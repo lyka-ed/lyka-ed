@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 🚀, I'm Lyka<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with distributed system and microservices.<br>🌱 I’m currently learning JavaScript and NodeJS.<br>💬 Ask me about Django.<br>⚡ Fun fact: I love food, music and travelling.
+# Hi 🚀, I'm Lyka
+<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with distributed system and microservices.<br>🌱 I’m currently learning JavaScript and NodeJS.<br>💬 Ask me about Django.<br>⚡ Fun fact: I love food, music and travelling.
 
 
 ## 🌐 Socials:
