@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🚀, I'm Lyka</h1>
-<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with distributed system and microservices.<br>🌱 I’m currently learning JavaScript and NodeJS.<br>💬 Ask me about Django.<br>⚡ Fun fact: I love food, music and travelling.
+<br>👯 I’m looking to collaborate on open source projects.<br>🤝 I’m looking for help with distributed system and microservices.<br>🌱 I’m currently learning JavaScript, TypeScript, NestJS and NodeJS.<br>💬 Ask me about Django.<br>⚡ Fun fact: I love food, music and travelling.
 
 
 ## 🌐 Socials:
